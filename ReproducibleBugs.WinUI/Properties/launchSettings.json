@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReproducibleBugs.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
